@@ -3,9 +3,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/pkg6/go-defaults"
 	"math/rand"
-
-	"github.com/creasty/defaults"
 )
 
 type Gender string

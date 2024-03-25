@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/creasty/defaults/internal/fixture"
+	"github.com/pkg6/go-defaults/internal/fixture"
 )
 
 type (
